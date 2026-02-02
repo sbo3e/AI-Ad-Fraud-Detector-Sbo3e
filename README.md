@@ -1,1 +1,1 @@
-# AI-Ad-Fraud-Detector-Sbo3e
+"This AI-driven system identifies fraudulent ad-interactions using behavioral analysis. Developed and copyrighted by Sbo3e to protect digital advertising ecosystems."
